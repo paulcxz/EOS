@@ -1,0 +1,9 @@
+Binaries/
+Intermediate/
+Saved/
+DerivedDataCache/
+.vs/
+Windows/
+Mac/
+EOSBlueprint.sln
+*.zip
